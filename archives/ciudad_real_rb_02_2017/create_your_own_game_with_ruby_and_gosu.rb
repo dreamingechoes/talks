@@ -217,7 +217,7 @@ section "Resources" do
   center <<-EOS
     \e[1mSlides\e[0m
 
-    https://github.com/dreamingechoes/talks/archives/ciudad_real_rb_2017
+    https://github.com/dreamingechoes/talks/blob/master/archives/ciudad_real_rb_02_2017
   EOS
 end
 
