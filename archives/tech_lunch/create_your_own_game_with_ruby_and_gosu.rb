@@ -6,7 +6,7 @@ center <<-EOS
   Iván González
   @dreamingechoes
 
-  CiudadReal.rb 2017
+  Tech Lunch 2021
 EOS
 
 section 'But why a video game?' do
