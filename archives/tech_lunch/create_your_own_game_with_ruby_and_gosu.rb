@@ -13,7 +13,7 @@ section 'But why a video game?' do
   center <<-EOS
     \e[1mLudum Dare\e[0m
 
-    http://ludumdare.com
+    http://ldjam.com
   EOS
 
   center <<-EOS
