@@ -153,7 +153,7 @@ section "Mixing the previous concepts" do
     |       +-- music.wav
     |       +-- ...
     |   +-- fonts
-    |       +-- custom_font.svg
+    |       +-- custom_font.ttf
     |   +-- images
     |       +-- backgrounds
     |       +-- sprites
@@ -183,13 +183,9 @@ section "Mixing the previous concepts" do
   EOS
 end
 
-section "Let's see some examples!" do
+section "Let's see one example!" do
   center <<-EOS
     \e[1mSimplelogica: against bugs\e[0m
-  EOS
-
-  center <<-EOS
-    \e[1mpomodoro-gui\e[0m
   EOS
 end
 
@@ -210,6 +206,8 @@ section "Resources" do
     \e[1mMy examples\e[0m
 
     https://github.com/dreamingechoes/simplelogica_the_game
+
+    https://github.com/dreamingechoes/gosu-examples
     
     https://github.com/dreamingechoes/pomodoro-gui
   EOS
@@ -217,21 +215,7 @@ section "Resources" do
   center <<-EOS
     \e[1mSlides\e[0m
 
-    https://github.com/dreamingechoes/talks/blob/master/archives/ciudad_real_rb_02_2017
-  EOS
-end
-
-section "Social Networks" do
-  center <<-EOS
-    \e[1mGithub\e[0m
-
-    https://github.com/dreamingechoes
-  EOS
-
-  center <<-EOS
-    \e[1mTwitter\e[0m
-
-    https://twitter.com/dreamingechoes
+    https://github.com/dreamingechoes/talks/blob/master/archives/tech_lunch
   EOS
 end
 
